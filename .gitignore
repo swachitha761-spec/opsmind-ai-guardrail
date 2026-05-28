@@ -1,0 +1,18 @@
+# Virtual Environment Folder (Never upload this; it's too heavy!)
+venv/
+.venv/
+env/
+
+# Python caching systems
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Hidden environment files that might contain API secrets
+.env
+*.env
